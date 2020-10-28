@@ -5,7 +5,7 @@
 </head>
 <body>
     <h1>Front Office</h1>
-    ---------------------------------
+    
     <h2>Input Penghuni</h2>
     <form action="inputpenghuni.php" method="post">
         <table>
